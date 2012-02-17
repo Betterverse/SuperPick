@@ -1,0 +1,11 @@
+name: iConomySuperpick
+version: 0.3
+author: codename_B
+website: http://ubempire.com/
+main: com.ubempire.Superpickaxe.Superpickaxe
+description: Adds a simple super pickaxe with iConomy support.
+commands:
+  spa:
+    description: 'Enables or disables super pickaxe'
+    usage: 'Usage: /<command>'
+    aliases: []
